@@ -15,5 +15,5 @@ Run these commands:
 
 or Run by docker compose
 
-test karo acche se
+test karo acche se hanji
 
